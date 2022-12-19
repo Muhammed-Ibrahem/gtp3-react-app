@@ -1,2 +1,2 @@
 #LIVE DEMO
-https://teal-taffy-0698ab.netlify.app/
+https://gpt3-website-clone.netlify.app/
